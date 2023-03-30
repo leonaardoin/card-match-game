@@ -1,0 +1,33 @@
+body{
+    background: black;
+    color: yellow;
+}
+
+h1{
+
+}
+
+.game {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.stats{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button {
+    cursor: pointer;
+    background-color: black;
+    color: yellow;
+    border-color: yellow;
+    padding: 10px 10px 10px 10px;
+    font-size: 20px;
+}
+
+/* disable button in javascript when game starts. */
+.disabled {
+    color: #757575;
+}

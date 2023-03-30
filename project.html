@@ -1,0 +1,45 @@
+<!-- creating a grid of cards (9), that can be flipped over and matched. 
+If a match is found, the cards stay flipped, if not, they will turn back. 
+The game continues until all cards are flipped and matched. -->
+
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Card Match Game</title>
+
+        <link rel="stylesheet" href="project.css" />
+        <script src="project.js" defer></script>
+        <link href="Bamboo Regular.ttf" rel="stylesheet">
+    </head>
+    <body>
+        <h1>Match Each Wu-Tang Member</h1>
+        <div class="game">
+            <div class="controls">
+                <button>Ready? Let's Begin!</button>
+                <div class="stats">
+                    <div class="moves">0 moves</div>
+                    <div class="timer">time: 0 sec</div>
+                </div>
+            </div>
+            <div class="board-container">
+                <div class="board" data-dimension="4"></div>
+                <div class="win">Winner!</div>
+            </div>
+        </div>
+        <!-- each card needs 3 div elements: 
+container to add some dimensions
+front of the card (facing us to start-wu-tang logo)
+back of the card (facing away from us, hiding what wu-tang member is on card         -->
+        <div class="board" data-dimension="4">
+            <div class="card">
+                <div class="card-front"></div>
+            <div class="card-back">need wu logo</div>
+        </div>
+
+
+    </body>
+</html>

@@ -1,0 +1,54 @@
+<!-- creating a grid of cards (9), that can be flipped over and matched. 
+If a match is found, the cards stay flipped, if not, they will turn back. 
+The game continues until all cards are flipped and matched. -->
+
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>36 Chambers</title>
+
+        <link rel="stylesheet" href="style.css" />
+        <script src="script.js" defer></script>
+    </head>
+    <body>
+        <h1>Welcome to the 36 Chambers</h1>
+        <div class="aside"><p>This is the mental agility test for entry into the 36 chambers. Correctly match each Wu-Tang member and you will successfully complete your challenge and flex your skills. 
+            <div class="challenge">To play, click the "Accept Challenge" button to begin the timer</div>
+            <ol>
+                <div class="list">
+                <li>click on a square to flip a card a reveal a Wu-Tang member</li>
+                <li>choose another square to flip that card to reveal a Wu-Tang member: if it is a match to the first Wu-Tang member revealed the cards will remain revealed on the game board OR if it is not a match, the cards will flip back over and you will choose another card to reveal another member</li>
+                <li>continue to flip cards and match all of the members of the Wu-Tang Clan until you have revealed all of the cards on the board!</li> </div>
+                <div class="ready">
+                Ready to test your mental agility skills?</div> 
+            </ol>
+                <div class="accept">Hit the "Accept Challenge" button to begin!</div>
+        </aside>
+        <div class="game">
+            <div class="controls">
+                <button>Accept Challenge!</button>
+                <div class="stats">
+                    <div class="moves">0 moves</div>
+                    <div class="timer">0 seconds</div>
+                </div>
+            </div>
+            <div class="board-container">
+                <div class="board" data-dimension="4">
+                    <!-- <img src="Deck.jpg" alt="Deck">
+                    <img src="RZA.jpg" alt="RZA">
+                    <img src="GZA.jpg" alt="GZA">
+                    <img src="Ghostface.jpg" alt="Ghostface">
+                    <img src="ODB.jpg" alt="ODB">
+                    <img src="Method.jpg" alt="Method">
+                    <img src="Inspectah.jpg" alt="Inspectah">
+                    <img src="Masta.jpg" alt="Masta">
+                    <img src="Raekwon.jpg" alt="Raekwon"> -->
+                </div>
+                <div class="win">Challenge Completed. Congratulations!</div>
+            </div>
+    </body>
+</html>

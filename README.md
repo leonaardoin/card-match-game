@@ -61,6 +61,9 @@ Some feature that I would like to add in the future that I could not on this rou
 <li>Adding game levels where one gets chamber levels increases for difficulty level based on number of moves to successfully complete a round</li>
 <li>On click music function looping Wu-Tang 36 chambers intro as game starts</li>
 
+<h3>Play Now!</h3>
+https://leonaardoin.github.io/card-match-game/.com
+
 
 
 

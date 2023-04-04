@@ -32,8 +32,8 @@ Hit the "Accept Challenge" button to begin!
 Before beginning my game, I needed to pinpoint the object of the game as well as the steps players would need to take to play. I mapped out the steps to the game and determined the following to create a functioning game:
 <ol>
 <li>How many cards I would need to display</li>
-<li>How will I randomize the display of cards</li>
 <li>Show back of card initially and flip on select</li>
+<li>How will I randomize the display of cards</li>
 <li>Only allow for two cards to be flipped at a time</li>
 <li>Determine if the two flipped cards match or if not, flip back over</li>
 <li>Add time interval delay to flip card back over</li>

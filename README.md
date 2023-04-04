@@ -62,7 +62,7 @@ Some feature that I would like to add in the future that I could not on this rou
 <li>On click music function looping Wu-Tang 36 chambers intro as game starts</li>
 
 <h3>Play Now!</h3>
-https://leonaardoin.github.io/card-match-game/.com
+https://leonaardoin.github.io/card-match-game/
 
 
 

@@ -54,6 +54,12 @@ In creating the game, the main coding function I needed to create was flipping c
 ![Card Flip Code](https://user-images.githubusercontent.com/126014224/229875121-085dd173-4ade-4a6c-9196-731d96f9d40f.JPG)
 
 
+<h3>Future Additions</h3>
+Some feature that I would like to add in the future that I could not on this round due to project time constraints would be:
+<li>Ending the game after 45 moves with losing status message</li>
+<li>Ending the game after 60 seconds with losing status message</li>
+<li>Adding game levels where one gets chamber levels increases for difficulty level based on number of moves to successfully complete a round</li>
+<li>On click music function looping Wu-Tang 36 chambers intro as game starts</li>
 
 
 

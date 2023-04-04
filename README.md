@@ -1,4 +1,4 @@
-<h2> 36 Chambers Mental Agility Game (Memory) </h2>
+<h1> 36 Chambers Mental Agility Game (Memory) </h1>
 
 <h3>Project Summary</h3> 
 This is my Module 1 DOM project for Per Scholas Software Engineering Intensive. In this project I was tasked with creating a 2 person game using html, css and javascript. <br>
@@ -61,8 +61,13 @@ Some feature that I would like to add in the future that I could not on this rou
 <li>Adding game levels where one gets chamber levels increases for difficulty level based on number of moves to successfully complete a round</li>
 <li>On click music function looping Wu-Tang 36 chambers intro as game starts</li>
 
-<h3>Play Now!</h3>
+<h1>Play Now!</h1>
 https://leonaardoin.github.io/card-match-game/
+
+<h3>References</h3>
+MDN Web Docs: Document.querySelector() https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector <br>
+MDN Web Docs: Document.getElementById() https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById
+
 
 
 

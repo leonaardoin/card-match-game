@@ -65,8 +65,9 @@ Some feature that I would like to add in the future that I could not on this rou
 https://leonaardoin.github.io/card-match-game/
 
 <h3>References</h3>
-MDN Web Docs: Document.querySelector() https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector <br>
-MDN Web Docs: Document.getElementById() https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById
+<li>Document.querySelector(): MDN Web Docs https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector</li>
+<li>Document.getElementById(): MDN Web Docs https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById</li>
+<li>DOMParser: MDN Web Docs https://developer.mozilla.org/en-US/docs/Web/API/DOMParser</li>
 
 
 

@@ -73,6 +73,7 @@ https://leonaardoin.github.io/card-match-game/
 <li>Math.Random: MDN Web Docs https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random</li>
 <li>Math.floor: W3 Schools https://www.w3schools.com/jsref/jsref_floor.asp</li>
 <li>Event Listeners: W3 Schools https://www.w3schools.com/js/js_htmldom_eventlistener.asp</li>
+<li>Cubic Bezier: CSS Tricks https://css-tricks.com/advanced-css-animation-using-cubic-bezier/</li>
 
 
 

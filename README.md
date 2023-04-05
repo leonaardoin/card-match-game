@@ -61,13 +61,14 @@ Some feature that I would like to add in the future that I could not on this rou
 <li>Adding game levels where one gets chamber levels increases for difficulty level based on number of moves to successfully complete a round</li>
 <li>On click music function looping Wu-Tang 36 chambers intro as game starts</li>
 
-<h1>Play Now!</h1>
+<h1>Play Now!:video_game:</h1>
 https://leonaardoin.github.io/card-match-game/
 
 <h3>References</h3>
 <li>Document.querySelector(): MDN Web Docs https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector</li>
 <li>Document.getElementById(): MDN Web Docs https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById</li>
 <li>DOMParser: MDN Web Docs https://developer.mozilla.org/en-US/docs/Web/API/DOMParser</li>
+<li>Fisher-Yates Shuffle Algorithm: Wikipedia https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle#The_modern_algorithm</li>
 
 
 

@@ -59,7 +59,8 @@ Some feature that I would like to add in the future that I could not on this rou
 <li>Ending the game after 45 moves with losing status message</li>
 <li>Ending the game after 60 seconds with losing status message</li>
 <li>Adding game levels where one gets chamber levels increases for difficulty level based on number of moves to successfully complete a round</li>
-<li>On click music function looping Wu-Tang 36 chambers intro as game starts</li>
+<li>On click music function looping as game starts</li>
+<li>Adding a total high score and time with user name input values and storage</li>
 
 <h1>Play Now!:video_game:</h1>
 https://leonaardoin.github.io/card-match-game/

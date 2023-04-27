@@ -63,7 +63,7 @@ Some feature that I would like to add in the future that I could not on this rou
 <li>Adding a total high score and time with user name input values and storage</li>
 
 <h1>Play Now!:video_game:</h1>
-https://leonaardoin.github.io/card-match-game/
+https://jscardgame.netlify.app/
 
 <h3>References</h3>
 <li>Memory Game Information: Wikipedia https://en.wikipedia.org/wiki/Concentration_(card_game)</li>
